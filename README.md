@@ -25,7 +25,7 @@ On the main menu screen, there are 6 options which each have a corresponding num
 4 - Options
   By selecting this option you will be able to select the window size. Once you have selected your window size you will return to the main menu.
   
-5 - Support/feedback (removed from .py)
+5 - Support/feedback (removed from .py broken in .exe)
   By selecting this option you will be asked to enter your name then optionally your email (in-case a response is desired, if a response isn't then just hit enter to skip). Then enter the message you wish to send. Once it has sent you will return to the main menu.
   
 6 - Exit
