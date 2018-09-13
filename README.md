@@ -28,6 +28,7 @@ On the main menu screen, there are 6 options which each have a corresponding num
   
   
 The gameplay:
+
 You will see a 5x5 tile section of your surroundings, with you being on the central tile along with your health, hunger and thirst stats. Use the numpad keys to move tiles and explore the map. Your movement is limited when you first start out to Grassland, Forest and Stone. To move over Mountain or Water you need to craft a Rope or Boat respectively. 
 You can enter 'p' to pick the current tile you are on which will provide you with resources relevant to the tile type. These resources can be used for crafting items. Once you have picked on a tile, you must move to different tiles several times before you can pick from that tile again. 
 You can enter 'h' to hunt on a tile which will give you 3 options for hunting: bare hand - a chance to catch a turkey; bow - a chance to get a grey squirrel or turkey but requires you to have crafted a bow and have arrows; spear - a chance to get deer or wolf but requires you to have crafted a spear. Animals that are caught can be eaten to recover Hunger. 
