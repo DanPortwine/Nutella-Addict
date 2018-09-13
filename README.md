@@ -1,5 +1,10 @@
 # Nutella Addict
 
+Files:
+
+The .zip file contains an .exe version of the game as well as some starter maps. If you just want to play the game then download and extract this file then run the .exe.
+The .py file can be run if you have python installed as well as the required modules: random, time, os, winsound, colorama, smtplib, email.mime.multipart and email.mime.text.
+
 ! USE THE NUMPAD ON YOUR KEYBOARD FOR THE BEST EXPEREIENCE !
 
 Note: This game uses a command line interface (not a GUI). This has severely limited the possibilities for this project.
@@ -20,7 +25,7 @@ On the main menu screen, there are 6 options which each have a corresponding num
 4 - Options
   By selecting this option you will be able to select the window size. Once you have selected your window size you will return to the main menu.
   
-5 - Support/feedback
+5 - Support/feedback (removed from .py)
   By selecting this option you will be asked to enter your name then optionally your email (in-case a response is desired, if a response isn't then just hit enter to skip). Then enter the message you wish to send. Once it has sent you will return to the main menu.
   
 6 - Exit
